@@ -1,0 +1,19 @@
+{
+  "color": {
+    "palette": {
+      "white": {
+        "0": {
+          "value": "#fff",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "xl": {
+      "value": "32",
+      "type": "borderRadius",
+      "description": "(aquí añadir dimension)"
+    }
+  }
+}

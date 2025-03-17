@@ -1,5 +1,12 @@
 {
   "tokenSetOrder": [
-    "global"
+    "global",
+    "global/global",
+    "palette",
+    "mode/dark",
+    "mode/light",
+    "comp/button/color",
+    "copies/es",
+    "copies/en"
   ]
 }
