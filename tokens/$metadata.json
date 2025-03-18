@@ -1,8 +1,7 @@
 {
   "tokenSetOrder": [
     "global",
-    "global/global",
-    "palette",
+    "global/palette",
     "mode/dark",
     "mode/light",
     "comp/button/color",
