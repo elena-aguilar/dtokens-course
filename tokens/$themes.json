@@ -4,8 +4,7 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "global/palette": "disabled"
+      "global": "enabled"
     },
     "$figmaVariableReferences": {}
   },
@@ -145,8 +144,7 @@
     "name": "es",
     "group": "copies",
     "selectedTokenSets": {
-      "copies/es": "enabled",
-      "global/palette": "disabled"
+      "copies/es": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -245,8 +243,7 @@
     "name": "en",
     "group": "copies",
     "selectedTokenSets": {
-      "copies/en": "enabled",
-      "global/palette": "disabled"
+      "copies/en": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -346,8 +343,7 @@
     "group": "mode",
     "selectedTokenSets": {
       "mode/light": "enabled",
-      "comp/button/color": "enabled",
-      "global/palette": "disabled"
+      "comp/button/color": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -395,8 +391,7 @@
     "group": "mode",
     "selectedTokenSets": {
       "mode/dark": "enabled",
-      "comp/button/color": "enabled",
-      "global/palette": "disabled"
+      "comp/button/color": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
