@@ -1,0 +1,33 @@
+{
+  "sizing": {
+    "button": {
+      "height": {
+        "default": {
+          "value": "{dimension.x1000}",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "borderRadius": {
+    "button": {
+      "default": {
+        "value": "{borderRadius.medium}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "font": {
+    "button": {
+      "default": {
+        "value": {
+          "fontFamily": "{primary}",
+          "fontWeight": "{fontWeight.medium}",
+          "fontSize": "{fontSize.100}",
+          "lineHeight": "{lineHeight.small}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
