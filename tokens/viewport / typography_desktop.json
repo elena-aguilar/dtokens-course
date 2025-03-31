@@ -4,7 +4,7 @@
       "xl": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.semibold}",
           "fontSize": "{dimension.x1000}",
           "lineHeight": "{lineHeight.small}",
           "letterSpacing": "{letterSpacing.default}"
@@ -14,7 +14,7 @@
       "l": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.semibold}",
           "fontSize": "{dimension.x900}",
           "lineHeight": "{lineHeight.small}",
           "letterSpacing": "{letterSpacing.default}"
@@ -24,7 +24,7 @@
       "m": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.semibold}",
           "fontSize": "{dimension.x600}",
           "lineHeight": "{lineHeight.small}",
           "letterSpacing": "{letterSpacing.default}"
